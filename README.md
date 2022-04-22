@@ -1,4 +1,6 @@
-# geog458lab2
+# GEOG458 Lab2
+# Kristina Hsu
+
 
 ## 1. introduce your comparison of two places or two time periods. Why do you want to make this comparison? Make sure this narrative will be stored in a readme.md. (POINT 15)
 
